@@ -30,7 +30,7 @@
 * VS Code
 * Jupyter Notebook
 * PyCharm
-* 
+  
  🚀 Projects
 
 🔹 Gender Pay Equality Analysis
