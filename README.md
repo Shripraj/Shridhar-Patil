@@ -11,8 +11,8 @@
 
 * Python
 * SQL
- 🌐 Web Development
 
+🌐 Web Development
 * Flask
 * HTML
 * CSS
