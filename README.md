@@ -3,7 +3,7 @@
 
 
 🎓 Computer Science & Engineering Student
-📊 Aspiring Data Analyst | 💻 Python Developer
+📊 Aspiring Data scientist | 💻 Python Developer
 
 ---
 
