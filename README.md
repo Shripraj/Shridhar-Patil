@@ -79,3 +79,4 @@ Identified customer trends, revenue drivers, and business insights using data an
 
 📧 Email: [patilshridhar1301@gmail.com](mailto:patilshridhar1301@gmail.com)
 🔗 LinkedIn: [www.linkedin.com/in/patishridhar](http://www.linkedin.com/in/patishridhar)
+💼 Portfolio: [Shridhar Patil](https://portfolio-j9fo.onrender.com)
