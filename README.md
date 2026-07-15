@@ -6,7 +6,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=patilshridhar13&color=6C63FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Shripraj&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -104,14 +104,12 @@ Identified customer trends, revenue drivers, and actionable business insights th
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=patilshridhar13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patilshridhar13&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shripraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shripraj&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=patilshridhar13&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shripraj&theme=tokyonight&hide_border=true" />
 
 </div>
-
-> ℹ️ **Note:** Replace `patilshridhar13` in the stats URLs above with your exact GitHub username if it's different, so the cards pull your real data.
 
 ---
 
@@ -122,6 +120,7 @@ Identified customer trends, revenue drivers, and actionable business insights th
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patilshridhar1301@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patishridhar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-j9fo.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shripraj)
 
 </div>
 
