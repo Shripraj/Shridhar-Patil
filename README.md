@@ -34,7 +34,7 @@
 **Programming Languages**
 
 <img src="https://skillicons.dev/icons?i=python" />
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **Web Development**
 
