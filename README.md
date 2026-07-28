@@ -84,6 +84,9 @@ Identified customer trends, revenue drivers, and actionable business insights th
 
 - 🏅 **Deloitte Australia** – Data Analytics Job Simulation (Forage)
 - 🏅 **Tata** – Data Visualization Job Simulation (Forage)
+- 🏅 **OneRoadmap** - Python
+- 🏅 **OneRoadmap** - SQL
+- 🏅 **Udemy**-DataScience and machine learning
 
 ---
 
@@ -94,19 +97,6 @@ Identified customer trends, revenue drivers, and actionable business insights th
 ![Advanced Python](https://img.shields.io/badge/Advanced-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Data Viz](https://img.shields.io/badge/Data-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![ML Basics](https://img.shields.io/badge/Machine%20Learning-Basics-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shripraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shripraj&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shripraj&theme=tokyonight&hide_border=true" />
 
 </div>
 
